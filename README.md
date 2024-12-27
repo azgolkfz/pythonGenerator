@@ -44,3 +44,6 @@ This project is licensed under the MIT License.
 
 ## Update from enhancement/merge-5400
 - Auto-generated changes
+
+## Update from refactor/merge-1357
+- Auto-generated changes
