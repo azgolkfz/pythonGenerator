@@ -35,3 +35,6 @@ This project is licensed under the MIT License.
 
 ## Update from refactor/merge-7170
 - Auto-generated changes
+
+## Update from docs/merge-8087
+- Auto-generated changes
